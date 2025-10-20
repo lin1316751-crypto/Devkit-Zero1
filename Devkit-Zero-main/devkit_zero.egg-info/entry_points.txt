@@ -1,0 +1,6 @@
+[console_scripts]
+devkit = devkit_zero.cli:main
+devkit-zero = devkit_zero.cli:main
+
+[gui_scripts]
+devkit-zero-gui = devkit_zero.gui_main:main
